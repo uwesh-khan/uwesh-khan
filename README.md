@@ -2,9 +2,9 @@
 - 👀 I’m interested in Java development
 - 😶‍🌫️ Cloud enthusiast
 - 🌐 IoT developer
-- 🌱 I’m currently learning tools and technologies required for Development and design.
+- 🌱 I’m currently pursuing M.Tech Integrated 5 year program from Devi Ahilya Vishwavidhyalaya.
 - 💞️ I’m looking to collaborate on Java projects and open for contribution.
-- 📫 How to reach me? via Linkedin 
+- 📫 How to reach me? Here is my profile url, www.linkedin.com/in/uwesh-khan-ba7040201
 
 
 <!---
