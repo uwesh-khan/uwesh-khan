@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @uwesh-khan
-- 👀 I’m interested in Cloud Computing, Java development, Iot 
+- 👀 I’m interested in Java development
+- 😶‍🌫️ Cloud enthusiast
+- 🌐 IoT developer
 - 🌱 I’m currently learning tools and technologies required for Development and design.
 - 💞️ I’m looking to collaborate on Java projects and open for contribution.
 - 📫 How to reach me? via Linkedin 
